@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test JUnit",
+      "setup": "javac -cp junit4.jar:. *.java",
+      "run": "java -cp junit4.jar:. SquareTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
