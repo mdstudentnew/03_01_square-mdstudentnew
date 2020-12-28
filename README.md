@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3854820&assignment_repo_type=AssignmentRepo)
 # Square Lab
 1.	Create a class called Square with a ```double side``` to represent a side's length.
 2.	Add a public integer constant ```MAX_SIDE_LENGTH``` and set it to 10.
